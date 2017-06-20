@@ -34,7 +34,7 @@ var favoriteFoods = ['Pizza', 'Tacos', 'Salads', 'Pasta', 'Oranges', 'Coffee'];
 
 /*code here*/
 for (var i=0; i < favoriteFoods.length; i++){
-  console.log(favoriteFoods[i];
+  console.log(favoriteFoods[i]);
 }  
 
 
@@ -73,7 +73,7 @@ function sayHi(name) {
 var friend1 = {
  name: 'Tom',
  age:'32',
- vocation:'blogger'
+ vocation:'blogging'
 }; 
 
 var friend2 = {
